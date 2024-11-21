@@ -15,14 +15,5 @@
   "frontMatter": {
     "sidebar_label": "Hi!",
     "sidebar_position": 1
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "prerequisites",
-    "permalink": "/docs/getting-started/prerequisites"
-  },
-  "next": {
-    "title": "Tutorial Intro",
-    "permalink": "/docs/intro"
   }
 }

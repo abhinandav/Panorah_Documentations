@@ -57,5 +57,4 @@ Navigate through the sidebar to explore each file and learn how it fits into the
 
 ## Quick Links
 - [Applications Module](./applications.md)
-- [Granian App Module](./granian_app.md)
 - [Doctype Submodule](./doctype/views.md)

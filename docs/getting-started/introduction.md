@@ -17,4 +17,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 **Prerequisites**
 Before you can start with Panorah, be sure you understand the stack it's built on.
 
-[prerequisites](prerequisites)
