@@ -1,0 +1,27 @@
+{
+  "id": "architecture/Api/doctype/dat",
+  "title": "dat",
+  "description": "",
+  "source": "@site/docs/architecture/Api/doctype/dat.md",
+  "sourceDirName": "architecture/Api/doctype",
+  "slug": "/architecture/Api/doctype/dat",
+  "permalink": "/docs/architecture/Api/doctype/dat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/Api/doctype/dat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dao",
+    "permalink": "/docs/architecture/Api/doctype/dao"
+  },
+  "next": {
+    "title": "API Overview",
+    "permalink": "/docs/architecture/Api/indtroduction"
+  }
+}

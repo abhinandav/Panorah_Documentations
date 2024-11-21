@@ -1,0 +1,28 @@
+{
+  "id": "architecture/Api/doctype/dao",
+  "title": "dao.py",
+  "description": "The dao.py (Data Access Object) module in the Panorah Framework provides an abstraction layer for interacting with the framework’s data layer. It encapsulates database operations, handles hierarchical data, manages metadata, and performs complex queries, making it a critical component for streamlined and reusable data management.",
+  "source": "@site/docs/architecture/Api/doctype/dao.md",
+  "sourceDirName": "architecture/Api/doctype",
+  "slug": "/architecture/Api/doctype/dao",
+  "permalink": "/docs/architecture/Api/doctype/dao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/Api/doctype/dao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "dao.py",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "controller.py",
+    "permalink": "/docs/architecture/Api/doctype/controller"
+  },
+  "next": {
+    "title": "schema.py",
+    "permalink": "/docs/architecture/Api/doctype/schema"
+  }
+}

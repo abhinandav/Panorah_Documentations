@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/delete_document",
+  "title": "Deleting a Document",
+  "description": "This section explains the backend processes, schemas, and functions involved in deleting a document (record) from a DocType in the Panorah Framework.",
+  "source": "@site/docs/tutorial/delete_document.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/delete_document",
+  "permalink": "/docs/tutorial/delete_document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/delete_document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Deleting a Document",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fetching Data",
+    "permalink": "/docs/tutorial/fetch_data"
+  },
+  "next": {
+    "title": "Updating a Document",
+    "permalink": "/docs/tutorial/update_doc"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "architecture/start",
+  "title": "Get started",
+  "description": "Before diving into development, it's essential to understand the structure, components, and design philosophy behind the Panorah Framework. Panorah is built with the goal of simplifying ERP system development by offering a robust, flexible framework that integrates seamlessly with PostgreSQL, FastAPI, and Piccolo ORM.",
+  "source": "@site/docs/architecture/start.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/start",
+  "permalink": "/docs/architecture/start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/category/architecture"
+  },
+  "next": {
+    "title": "API Overview",
+    "permalink": "/docs/architecture/Api/indtroduction"
+  }
+}

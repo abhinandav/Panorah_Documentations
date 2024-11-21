@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/exeute_function",
+  "title": "Execute Function",
+  "description": "This section explains the Remote Procedure Call (RPC) mechanism implemented by the Execute Function feature in the Panorah Framework.",
+  "source": "@site/docs/tutorial/exeute_function.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/exeute_function",
+  "permalink": "/docs/tutorial/exeute_function",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/exeute_function.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Execute Function",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upload Files",
+    "permalink": "/docs/tutorial/file_upload"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/category/architecture"
+  }
+}

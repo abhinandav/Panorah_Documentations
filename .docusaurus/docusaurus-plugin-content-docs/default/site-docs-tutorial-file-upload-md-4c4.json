@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/file_upload",
+  "title": "Upload Files",
+  "description": "This section explains the backend processes, schemas, and functions involved in uploading files in the Panorah Framework.",
+  "source": "@site/docs/tutorial/file_upload.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/file_upload",
+  "permalink": "/docs/tutorial/file_upload",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/file_upload.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Upload Files",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Filtering and Sorting",
+    "permalink": "/docs/tutorial/filter_sort"
+  },
+  "next": {
+    "title": "Execute Function",
+    "permalink": "/docs/tutorial/exeute_function"
+  }
+}

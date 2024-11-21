@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/fetch_data",
+  "title": "Fetching Data",
+  "description": "This section explains the backend processes, schemas, and functions involved in fetching data from a DocType in the Panorah Framework. There are two methods for fetching data:",
+  "source": "@site/docs/tutorial/fetch_data.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/fetch_data",
+  "permalink": "/docs/tutorial/fetch_data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/fetch_data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Fetching Data",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inserting Data",
+    "permalink": "/docs/tutorial/insert_to_doctype"
+  },
+  "next": {
+    "title": "Deleting a Document",
+    "permalink": "/docs/tutorial/delete_document"
+  }
+}

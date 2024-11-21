@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/panorah-architecture",
+  "source": "@site/src/pages/panorah-architecture.md",
+  "title": "My Markdown page",
+  "description": "This is a Markdown page",
+  "frontMatter": {},
+  "unlisted": false
+}

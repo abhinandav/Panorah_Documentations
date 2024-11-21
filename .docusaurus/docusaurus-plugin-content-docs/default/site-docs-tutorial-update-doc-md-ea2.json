@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/update_doc",
+  "title": "Updating a Document",
+  "description": "This section explains the backend processes, schemas, and functions involved in updating a document (record) in a DocType in the Panorah Framework.",
+  "source": "@site/docs/tutorial/update_doc.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/update_doc",
+  "permalink": "/docs/tutorial/update_doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/update_doc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Updating a Document",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deleting a Document",
+    "permalink": "/docs/tutorial/delete_document"
+  },
+  "next": {
+    "title": "Filtering and Sorting",
+    "permalink": "/docs/tutorial/filter_sort"
+  }
+}

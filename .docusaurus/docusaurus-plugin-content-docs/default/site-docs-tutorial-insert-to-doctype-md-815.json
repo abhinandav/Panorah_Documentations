@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/insert_to_doctype",
+  "title": "Inserting Data",
+  "description": "This tutorial will guide you through the process of inserting data into an existing DocType. You'll learn about the required payload structure, key terminologies, and the backend functions involved.",
+  "source": "@site/docs/tutorial/insert_to_doctype.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/insert_to_doctype",
+  "permalink": "/docs/tutorial/insert_to_doctype",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/insert_to_doctype.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Inserting Data",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating a DocType",
+    "permalink": "/docs/tutorial/create_doctype"
+  },
+  "next": {
+    "title": "Fetching Data",
+    "permalink": "/docs/tutorial/fetch_data"
+  }
+}

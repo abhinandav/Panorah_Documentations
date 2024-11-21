@@ -1,0 +1,28 @@
+{
+  "id": "architecture/Api/doctype/controller",
+  "title": "controller.py",
+  "description": "The controllers.py file serves as the central hub for managing and executing backend operations within the Panorah Framework. It defines the logic for interacting with database tables, handling dynamic operations, and supporting the creation, retrieval, and manipulation of data through various controller methods.",
+  "source": "@site/docs/architecture/Api/doctype/controller.md",
+  "sourceDirName": "architecture/Api/doctype",
+  "slug": "/architecture/Api/doctype/controller",
+  "permalink": "/docs/architecture/Api/doctype/controller",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/Api/doctype/controller.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "controller.py",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "views.py",
+    "permalink": "/docs/architecture/Api/doctype/views"
+  },
+  "next": {
+    "title": "dao.py",
+    "permalink": "/docs/architecture/Api/doctype/dao"
+  }
+}

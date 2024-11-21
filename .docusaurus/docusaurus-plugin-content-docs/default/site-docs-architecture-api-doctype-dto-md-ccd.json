@@ -1,0 +1,24 @@
+{
+  "id": "architecture/Api/doctype/dto",
+  "title": "dto.py",
+  "description": "The DTO (Data Transfer Object) module in the Panorah Framework bridges the gap between schemas and business logic. It utilizes MsgspecDTO from Litestar to convert, validate, and manage data transfer efficiently between the framework's components and external systems.",
+  "source": "@site/docs/architecture/Api/doctype/dto.md",
+  "sourceDirName": "architecture/Api/doctype",
+  "slug": "/architecture/Api/doctype/dto",
+  "permalink": "/docs/architecture/Api/doctype/dto",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/Api/doctype/dto.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "dto.py",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "schema.py",
+    "permalink": "/docs/architecture/Api/doctype/schema"
+  }
+}

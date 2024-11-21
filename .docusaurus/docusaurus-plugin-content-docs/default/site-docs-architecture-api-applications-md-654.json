@@ -1,0 +1,28 @@
+{
+  "id": "architecture/Api/applications",
+  "title": "applications.py",
+  "description": "The application entry point initializes and configures the Panorah Framework by defining routes, middleware, and plugins. It uses Litestar as the underlying framework for handling requests and responses, providing a modular and extensible architecture.",
+  "source": "@site/docs/architecture/Api/applications.md",
+  "sourceDirName": "architecture/Api",
+  "slug": "/architecture/Api/applications",
+  "permalink": "/docs/architecture/Api/applications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/Api/applications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "applications.py",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Overview",
+    "permalink": "/docs/architecture/Api/indtroduction"
+  },
+  "next": {
+    "title": "views.py",
+    "permalink": "/docs/architecture/Api/doctype/views"
+  }
+}

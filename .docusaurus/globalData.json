@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/introduction",
+          "docs": [
+            {
+              "id": "architecture/Api/applications",
+              "path": "/docs/architecture/Api/applications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/Api/doctype/controller",
+              "path": "/docs/architecture/Api/doctype/controller",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/Api/doctype/dao",
+              "path": "/docs/architecture/Api/doctype/dao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/Api/doctype/dto",
+              "path": "/docs/architecture/Api/doctype/dto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/Api/doctype/schema",
+              "path": "/docs/architecture/Api/doctype/schema",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/Api/doctype/views",
+              "path": "/docs/architecture/Api/doctype/views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/Api/indtroduction",
+              "path": "/docs/architecture/Api/indtroduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/start",
+              "path": "/docs/architecture/start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/introduction",
+              "path": "/docs/getting-started/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/Prerequisites",
+              "path": "/docs/getting-started/Prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/create_doctype",
+              "path": "/docs/tutorial/create_doctype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/delete_document",
+              "path": "/docs/tutorial/delete_document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/exeute_function",
+              "path": "/docs/tutorial/exeute_function",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/fetch_data",
+              "path": "/docs/tutorial/fetch_data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/file_upload",
+              "path": "/docs/tutorial/file_upload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/filter_sort",
+              "path": "/docs/tutorial/filter_sort",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/insert_to_doctype",
+              "path": "/docs/tutorial/insert_to_doctype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/update_doc",
+              "path": "/docs/tutorial/update_doc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial",
+              "path": "/docs/category/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/architecture",
+              "path": "/docs/category/architecture",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/getting-started",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

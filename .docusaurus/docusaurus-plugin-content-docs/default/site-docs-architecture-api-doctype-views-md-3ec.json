@@ -1,0 +1,28 @@
+{
+  "id": "architecture/Api/doctype/views",
+  "title": "views.py",
+  "description": "The views.py file is a core component of the Panorah Framework, serving as the interface between the backend logic and external requests. It defines a series of controllers that handle a wide range of operations, offering modular, extensible, and type-safe API endpoints. Additionally, this module supports dynamic operations by leveraging controllers to process and manage requests efficiently.",
+  "source": "@site/docs/architecture/Api/doctype/views.md",
+  "sourceDirName": "architecture/Api/doctype",
+  "slug": "/architecture/Api/doctype/views",
+  "permalink": "/docs/architecture/Api/doctype/views",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/Api/doctype/views.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "views.py"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applications.py",
+    "permalink": "/docs/architecture/Api/applications"
+  },
+  "next": {
+    "title": "controller.py",
+    "permalink": "/docs/architecture/Api/doctype/controller"
+  }
+}
